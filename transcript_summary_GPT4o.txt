@@ -17,7 +17,7 @@ Speaker 1: "The Jewish claim to Israel is deeply rooted in their historical indi
 Speaker 2: "I see the argument for Jewish indigeneity, but there’s a difference. Jews left their homeland and were able to adapt elsewhere, even if they faced challenges. Palestinians, on the other hand, stayed on their land until they were forcibly removed in 1948. It’s not the same kind of displacement."
 
 Speaker 3: "I don’t buy the argument that Jews never faced colonialism. They were kicked out of Israel multiple times and had to endure persecution wherever they settled—be it in Europe or the Middle East. The claim of indigeneity works for both Palestinian Arabs and Jews, especially the Jews from the Middle East who never left the region."
-
+	
 3. Colonialism and Its Impact
 Speaker 1: "Colonialism has shaped the history of so many groups, including Jews. Jews were not just victims of European colonialism, but also of Ottoman and other powers. It’s important not to view colonialism only through the European lens—it’s been a universal phenomenon, and Jews have had to survive under various forms of colonial rule."
 
@@ -58,7 +58,6 @@ These speeches encapsulate each speaker's general stance on the topics discussed
 --------------------------------------------
 
 Prompt: I want you to rank all the the topics starting from the one where there is the most agreement among the speakers, and ending with the topic with the least agreement among the speakers. Give reasons why you ranked it as such.  
-
 
 ::::::::::::::::::::::::
 
